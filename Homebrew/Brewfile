@@ -1,0 +1,79 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew autoconf
+brew cairo
+brew fontconfig
+brew fontforge
+brew freetype
+brew fribidi
+brew gdbm
+brew gettext
+brew giflib
+brew git
+brew glib
+brew gobject-introspection
+brew graphite2
+brew harfbuzz
+brew icu4c
+brew jpeg
+brew libffi
+brew libidn2
+brew libpng
+brew libspiro
+brew libtiff
+brew libtool
+brew libuninameslist
+brew libunistring
+brew libxml2
+brew libxslt
+brew mas
+brew ncurses
+brew node
+brew nodebrew
+brew openssl
+brew openssl@1.1
+brew pango
+brew pcre
+brew pcre2
+brew pixman
+brew pkg-config
+brew pyenv
+brew python
+brew python@2
+brew readline
+brew sbt
+brew sqlite
+brew tree
+brew wget
+brew xz
+brew zsh
+
+tap homebrew/bundle
+
+tap homebrew/cask-versions
+
+tap homebrew/services
+
+tap homebrew/versions
+
+tap homebrew/cask
+cask alfred
+cask google-chrome
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask dropbox
+cask iterm2
+
+# App Store applications
+appstore 443987910 1Password (6.8.9)
+appstore 1193539993 Brother iPrint&Scan (4.1.3)
+appstore 1024640650 CotEditor (3.6.4)
+appstore 869223134 KakaoTalk (2.5.4)
+appstore 409183694 Keynote (8.3)
+appstore 539883307 LINE (5.11.1)
+appstore 803453959 Slack (3.3.3)
