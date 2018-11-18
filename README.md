@@ -1,5 +1,8 @@
 ## Homebrewのインストール
+
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 
-## gitの設定
+## Brewfileから必要なアプリを一括でインストール
